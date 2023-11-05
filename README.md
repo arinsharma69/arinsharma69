@@ -40,9 +40,9 @@ My vision encompasses not only academic excellence but also making impactful con
 
 <h2>Connect with me </h3>
     <p>
-        <a href="https://linkedin.com/in/sharmaarin69"><img src="https://img.shields.io/badge/-Sarwagya%20Singh%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/0xsarwagya" alt="LinkedIn Badge"></a> 
+        <a href="https://linkedin.com/in/sharmaarin69"><img src="https://img.shields.io/badge/-Arin%20Sharma%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/sharmaarin69" alt="LinkedIn Badge"></a> 
        <a href="https://twitter.com/@ArinJangid
-/"><img src="https://img.shields.io/badge/-Sarwagya Singh-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/0xsarwagya" alt="Twitter Badge"></a>
+/"><img src="https://img.shields.io/badge/-Arin Sharma-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/ArinJangid" alt="Twitter Badge"></a>
    </p>
 
  <!-- Conecct section: END -->
