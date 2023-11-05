@@ -33,6 +33,8 @@ My vision encompasses not only academic excellence but also making impactful con
 - 📫 How to reach me: [@arinjangid](https://instagram.com/arinjangid)
 
 - ⚡ HiWi @ CISPA Helmholtz Institue For Information Security
+  
+- ⚡ Marketing Lead @ [Esportzvio Private Limited](https://esportzvio.com)
 
 - 💼 Co-Founder & CEO at [Finesseix Private Technology](https://github.com/0xStealthStartup)
 
