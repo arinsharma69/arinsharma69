@@ -3,7 +3,7 @@
 
 <!-- Profile Views -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xsarwagya&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arinsharma69&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ My vision encompasses not only academic excellence but also making impactful con
 
 - 💬 Ask me about: Web3, Business and Computing In Social Sciences
 
-- 📫 How to reach me: [@0xsarwagya](https://instagram.com/arinjangid)
+- 📫 How to reach me: [@arinjangid](https://instagram.com/arinjangid)
 
 - ⚡ HiWi @ CISPA Helmholtz Institue For Information Security
 
